@@ -1,2 +1,22 @@
-# modal-popup-window
-This project is a responsive Modal / Popup Window built using HTML, CSS, and JavaScript
+# Modal / Popup Window
+
+## 📌 Description
+This project is a responsive Modal / Popup Window built using HTML, CSS, and JavaScript.
+
+## 🚀 Features
+- Button to open modal
+- Overlay background
+- Close button (X)
+- Close on outside click
+- Smooth CSS animations
+- Fully responsive design
+
+## 🛠 Technologies Used
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+
+
+## 🌐 Live Demo
+(Add GitHub Pages link here after deployment)
