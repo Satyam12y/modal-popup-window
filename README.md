@@ -19,4 +19,4 @@ This project is a responsive Modal / Popup Window built using HTML, CSS, and Jav
 
 
 ## 🌐 Live Demo
-(Add GitHub Pages link here after deployment)
+https://satyam12y.github.io/modal-popup-window/
